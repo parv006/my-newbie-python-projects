@@ -1,2 +1,2 @@
-# python_newbie
-newbie python projects 
+# git-beginner
+beginner projects i made without any structured courses 
